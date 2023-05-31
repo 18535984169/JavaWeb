@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/fruit_mvc_controller/web/edit.html" value="file://$PROJECT_DIR$/fruit_mvc_controller/web" />
+        <entry key="file://$PROJECT_DIR$/fruit_thymeleaf/web/index.html" value="file://$PROJECT_DIR$/fruit_thymeleaf/web" />
+        <entry key="file://$PROJECT_DIR$/fruit_thymeleaf2/web/index.html" value="file://$PROJECT_DIR$/fruit_thymeleaf2/web" />
+        <entry key="file://$PROJECT_DIR$/pro06_fruit4_mvc_controller/web/index.html" value="file://$PROJECT_DIR$/pro06_fruit4_mvc_controller/web" />
+        <entry key="file://$PROJECT_DIR$/pro10_QQZone/web/frames/main.html" value="file://$PROJECT_DIR$/pro10_QQZone/web/frames" />
+        <entry key="file://$PROJECT_DIR$/pro10_book/web/WEB-INF/pages/cart/cart.html" value="file://$PROJECT_DIR$/pro10_book/web/WEB-INF/pages/cart" />
+        <entry key="file://$PROJECT_DIR$/pro10_book/web/static/script/cart.html" value="file://$PROJECT_DIR$/pro10_book/web/static/script" />
+        <entry key="file://$PROJECT_DIR$/pro11_cookiec_kaptcha_js/web/hello01.html" value="file://$PROJECT_DIR$/pro11_cookiec_kaptcha_js/web" />
+      </map>
+    </option>
+  </component>
+</project>

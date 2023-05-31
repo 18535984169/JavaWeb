@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/pro01_web01/web/WEB-INF/classes/
+/pro02_web02/web/WEB-INF/classes/
+/pro03_fruit1_thymeleaf1/web/classes/

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+    <!--这个bean标签的作用是 将来servletPath涉及的名字对应的是fruit，那么就要fruitController这个类 -->
+    <bean id="fruit" class="controllers.fruitController"/>
+</beans>

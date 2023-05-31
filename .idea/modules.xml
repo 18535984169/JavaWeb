@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro00_html_css_js/pro00_html_css_js.iml" filepath="$PROJECT_DIR$/pro00_html_css_js/pro00_html_css_js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro01_web01/pro01_web01.iml" filepath="$PROJECT_DIR$/pro01_web01/pro01_web01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro02_web02/pro02_web02.iml" filepath="$PROJECT_DIR$/pro02_web02/pro02_web02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro03_fruit1_thymeleaf1/pro03_fruit1_thymeleaf1.iml" filepath="$PROJECT_DIR$/pro03_fruit1_thymeleaf1/pro03_fruit1_thymeleaf1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro04_fruit2_thymeleaf2/pro04_fruit2_thymeleaf2.iml" filepath="$PROJECT_DIR$/pro04_fruit2_thymeleaf2/pro04_fruit2_thymeleaf2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro05_fruit3_mvc/pro05_fruit3_mvc.iml" filepath="$PROJECT_DIR$/pro05_fruit3_mvc/pro05_fruit3_mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro06_fruit4_mvc_controller/pro06_fruit4_mvc_controller.iml" filepath="$PROJECT_DIR$/pro06_fruit4_mvc_controller/pro06_fruit4_mvc_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro07_SevvletApi/pro07_SevvletApi.iml" filepath="$PROJECT_DIR$/pro07_SevvletApi/pro07_SevvletApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro08_filter_listener/pro08_filter_listener.iml" filepath="$PROJECT_DIR$/pro08_filter_listener/pro08_filter_listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro09_QQZone/pro09_QQZone.iml" filepath="$PROJECT_DIR$/pro09_QQZone/pro09_QQZone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro10_book/pro10_book.iml" filepath="$PROJECT_DIR$/pro10_book/pro10_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro11_cookie_kaptcha_js/pro11_cookie_kaptcha_js.iml" filepath="$PROJECT_DIR$/pro11_cookie_kaptcha_js/pro11_cookie_kaptcha_js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro12_vue_axios/pro12_vue_axios.iml" filepath="$PROJECT_DIR$/pro12_vue_axios/pro12_vue_axios.iml" />
+    </modules>
+  </component>
+</project>

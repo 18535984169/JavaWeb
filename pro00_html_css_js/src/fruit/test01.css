@@ -1,0 +1,25 @@
+/*这里面是CSS环境，可以写CSS代码  */
+/*标签样式*/
+p{
+  color: blue;
+}
+/*类样式*/
+.f20{
+  font-size: 20px;
+}
+/*ID样式*/
+#p4{
+  background-color: pink;
+  font-size: 24px;
+  font-weight: bolder;
+  font-style: italic;
+  font-family: "华为彩云";
+}
+/*组合样式*/
+div p{
+  color: pink;
+}
+div .f32{
+  font-size: 32px;
+  font-family: "新宋体";
+}
